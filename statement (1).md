@@ -18,7 +18,6 @@ This project is a **console-based** calculator, not a GUI or web app. It's meant
 
 ## Target Users
 
-- Primarily built as a **course project submission**, so the main "user" evaluating it is course faculty/graders
 - Also usable by **beginner Python learners** who want a simple example of how loops, conditionals and recursion can come together in one working program
 - Anyone who just wants to do a quick calculation from the terminal without opening a full calculator app
 
