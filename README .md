@@ -49,29 +49,11 @@ There's no automated test suite for this project (see the "Future Enhancements" 
 - An invalid operator, e.g. typing `xyz` → should print `Invalid operator`
 - Answering `no` at the very first prompt → program should exit immediately
 
-## Sample Run (since this is a console program, a text transcript is used instead of a screenshot)
-
-```
-======================================================================
-           Numerix: An Algorithmic Scientific Calculator Engine
-                    Analytics Engine - Main Menu
-======================================================================
-
-Welcome! Would you like to perform a calculation?
-Please answer the above question in "yes" or "no":yes
-
-Select a category of operations:
- 1. Arithmetic   : +, -, , /, //, %, *
- 2. Trigonometry : sin(A), cos(A), tan(A)
- 3. Factorial    : C!
-Enter the operater you want to use:+
-Enter the first no.  :10
-Enter the second no. :5
-Result: 15.0
-                       Thank you for using Numerix
-======================================================================
-```
-
+## Screenshot
+![image alt](https://github.com/birajaprasadmishra075-collab/Cs-project-/blob/7696d3b31d1a695dce2620cacb4312d202608ba2/Code1.png)
+![image alt](https://github.com/birajaprasadmishra075-collab/Cs-project-/blob/7696d3b31d1a695dce2620cacb4312d202608ba2/Code2.png)
+![image alt](https://github.com/birajaprasadmishra075-collab/Cs-project-/blob/7696d3b31d1a695dce2620cacb4312d202608ba2/Code3.png)
+![image alt](https://github.com/birajaprasadmishra075-collab/Cs-project-/blob/7696d3b31d1a695dce2620cacb4312d202608ba2/Output.png)
 ## Known Limitations
 
 - The whole program currently lives in a single file rather than separate modules — the plan to split it up is noted under "Future Enhancements" in the project report.
